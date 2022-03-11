@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+     
+    body {
+   
+    background-size:5mm;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    }
+    
+    .box {
+    width : 500px;
+    background : rgba(0, 0, 0, 0.4);
+    margin : 0 auto;
+    margin-top : 4%;
+    padding: 20px;
+    color:rgb(175, 6, 6);
+    text-align: center;
+    border-radius: 15px;
+    }
+    
+    
+        
+  
+    
+    .box h1{
+        font-size: 20px;
+        letter-spacing:4px;
+        font-weight: 100;
+        margin:30px 0 20px;
+    }
+    
+    .box h2{
+        font-size: 20px;
+        letter-spacing: 3px;
+        font-weight: 100;
+        margin-bottom: 20px;
+    }
+    
+    .box p {
+        text-align:center 
+    }
